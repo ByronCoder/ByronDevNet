@@ -19,7 +19,7 @@ body {
 }
 
     #header-banner.demo-1 {
-        background: url('../images/banner-bg.jpg') no-repeat;
+        background: url('https://s3.amazonaws.com/byrondevnet-images/banner-bg.jpg') no-repeat;
         background-size: cover;
         background-position: center;
         background-color: #cccccc;
